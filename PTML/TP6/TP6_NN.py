@@ -50,14 +50,14 @@ def sigmoid_derivative(x):
 """
     forward pass
 """
-def forward_pass(x, wh, theta):
+def forward_pass(x, wh, theta): # (4) dans la feuille de TP
     return 1
 
 
 """
     compute gradients
 """
-def gradients(x, y, zh, ah, zo, ao):
+def gradients(x, y, zh, ah, zo, ao):    # calculs de la partie 2.3
     return 1
 
 
